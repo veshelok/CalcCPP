@@ -1,0 +1,7 @@
+\input texinfo
+@setfilename man.texi
+
+Click on buttons with numbers and actions.
+You can also use x and plot.
+
+@bye
