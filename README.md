@@ -11,5 +11,7 @@ An extended version of the calculator in C++
 - Поддерживает переменную X, строит график функции
 - А также кредитный калькулятор имеется
 
+  ![Calculator](https://github.com/veshelok/CalcCPP/raw/main/src/02.png)
+
   
 
